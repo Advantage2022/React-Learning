@@ -4,13 +4,25 @@ Master state management, component creation, and user interaction by building a 
 
 Example: A list of tasks with checkboxes for completion and buttons to add and remove tasks.
 
+### Checkin App for Orgs
+An employee will identify their Weekly targets and provide check-ins to co-workers
+The Manager can provide feedback
+
+*Improvements:*
+integration with Slack channel
+integration with ML Model to identify the sentiment of the employee, regularity, finishing goals, commitment, and under/ over-commitment
+
+### Dark background App Timer 
+Always on
+Should not be visible while sharing screen
+
 ### Weather App:
 Example: A weather form with a city input, fetching and displaying real-time weather conditions.
 
 ### Tic-Tac-Toe: 
 Practice state management, conditional rendering, and user interaction by implementing this classic two-player game.
 ### Random Quote Generator: 
-Fetch data from APIs (e.g., Quotes.REST), display random quotes, and potentially add functionalities like sharing or favoriting quotes. This reinforces working with APIs and state updates.
+Fetch data from APIs (e.g., Quotes. REST), display random quotes and potentially add functionalities like sharing or favoriting quotes. This reinforces working with APIs and state updates.
 ### Color Picker: 
 Experiment with DOM manipulation and user interaction by creating a color picker that allows users to select different colors and display their hex codes.
 ### Calculator: 
@@ -21,7 +33,7 @@ Build a basic calculator that performs simple arithmetic operations (addition, s
 ### Movie Search App (Enhanced): 
 Expand on the basic movie search app by implementing pagination for browsing through multiple pages of results, user preferences for sorting or filtering movies, and potentially displaying additional details on a dedicated movie page.
 ### Sticky Notes App: 
-Create a digital sticky notes board where users can add notes with different colors and text formatting. Introduce concepts like managing an array of notes in state, handling user input for creating and editing notes, and potentially persisting data in local storage.
+Create a digital sticky notes board where users can add notes with different colors and text formatting. Introduce concepts like managing an array of notes in the state, handling user input for creating and editing notes, and potentially persisting data in local storage.
 ### Drum Machine: 
 Build a virtual drum machine with different sounds triggered by keyboard buttons or on-screen elements. This involves handling user interaction with keyboard events or click events, playing audio samples, and potentially creating custom sound combinations.
 ### Pomodoro Timer (Advanced): 
@@ -33,7 +45,7 @@ Extend your e-commerce shop by implementing a basic checkout flow without actual
 ### Social Media Clone (More Features): 
 Further develop your social media clone by adding functionalities like user profiles, following other users, news feed updates based on followed users, and potentially implementing image or video uploads for posts. This introduces concepts of user authentication with libraries like Firebase or Auth0, managing user relationships (following), updating data based on user actions, and potentially handling image/video uploads with cloud storage.
 ### Chat Application (Enhanced): 
-Build upon your chat application by allowing group chats, private messaging, user presence indicators (online/offline), and potentially integrating file sharing functionalities. This delves deeper into managing chat rooms, handling multiple users, real-time updates for presence and messages, and potentially implementing file upload/download logic.
+Build upon your chat application by allowing group chats, private messaging, user presence indicators (online/offline), and potentially integrating file-sharing functionalities. This delves deeper into managing chat rooms, handling multiple users, real-time updates for presence and messages, and potentially implementing file upload/download logic.
 ### Kanban Board: 
 Create a visual task management board with columns representing different stages (To Do, In Progress, Done). Users can drag and drop tasks between columns, and potentially add functionalities like assigning tasks to users or setting deadlines. This introduces concepts of managing an array of tasks with different statuses, drag-and-drop interactions, and potentially integrating user accounts and assigning tasks.
 ### Drawing App: 
