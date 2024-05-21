@@ -51,10 +51,12 @@ Create a visual task management board with columns representing different stages
 ### Drawing App: 
 Build a drawing application with various drawing tools (brushes, lines, shapes), color pickers, and undo/redo functionalities. This involves utilizing the HTML5 canvas element or libraries like Fabric.js, handling user interaction with mouse/touch events for drawing, and potentially implementing different brush strokes or shapes.
 ### Simple Music Player: 
-Create a music player that allows users to upload or stream audio files (consider copyright restrictions), play/pause/stop controls, and potentially display song information or playlists. This involves handling audio playback with the HTML5 audio element or libraries, managing playlists in state, and potentially integrating with music streaming APIs (consider limitations/costs).
+Create a music player that allows users to upload or stream audio files (consider copyright restrictions), play/pause/stop controls, and potentially display song information or playlists. This involves handling audio playback with the HTML5 audio element or libraries, managing playlists in the state, and potentially integrating with music streaming APIs (consider limitations/costs).
 ## *Professional (Utilizing Advanced Patterns and Libraries):*
 
 ### To-Do List with Redux Integration: 
 Implement your to-do list application with Redux for centralized state management. This introduces the concept of a global state store, actions to update state, and connecting React components to the Redux store.
 ### Netflix Clone (Basic Functionality): 
 Build a simplified Netflix clone that allows users to browse movies/TV shows by categories, display details on individual titles, and potentially integrate with a recommendation API (consider limitations). This introduces concepts of fetching large amounts of data, implementing efficient data structures (e.g., virtualized lists
+
+### Drag and drop swimlanes :
