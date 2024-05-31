@@ -60,3 +60,7 @@ Implement your to-do list application with Redux for centralized state managemen
 Build a simplified Netflix clone that allows users to browse movies/TV shows by categories, display details on individual titles, and potentially integrate with a recommendation API (consider limitations). This introduces concepts of fetching large amounts of data, implementing efficient data structures (e.g., virtualized lists
 
 ### Drag and drop swimlanes :
+
+### Email Client App
+Special feature - setting the mail and out pf office in sync
+https://www.youtube.com/watch?v=mpcE5rxgLxM&t=1s
