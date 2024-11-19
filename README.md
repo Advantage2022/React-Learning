@@ -1,4 +1,7 @@
 # React-Learning
+### Find Buddy
+Find people from organizations and arrange to brainstorm with individuals. 
+
 ### To-Do List: 
 Master state management, component creation, and user interaction by building a basic to-do list with adding, removing, and marking tasks complete.
 
